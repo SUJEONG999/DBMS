@@ -7,7 +7,7 @@
 
 대부분 Relational Database 이다.
 
-![image-20210413133516905](C:/jsj/DBMS/images/image1.png)
+![image-20210413133516905](https://github.com/SUJEONG999/DBMS/blob/master/images/image1.PNG)
 
 ##  CRUD
 
@@ -78,7 +78,7 @@ Storage area는 하드디스크의 공간... 어떤 플랫폼 환경이냐에 �
 
 
 
-![image-20210413133516906](C:/jsj/DBMS/images/image2.png)
+![image-20210413133516906](https://github.com/SUJEONG999/DBMS/blob/master/images/image1.PNG)
 
 레코드(튜플)
 
